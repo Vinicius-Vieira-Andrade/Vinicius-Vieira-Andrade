@@ -4,8 +4,8 @@
 
 <img src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_960_720.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius-Vieira-Andrade&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Vieira-Andrade&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius-Vieira-Andrade&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Vieira-Andrade&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
 
