@@ -1,6 +1,7 @@
 ## Seja Bem-vindo ao meu perfil do Github, aqui você poderá ver todo meus projetos e desenvolvimento nos estudos.
 
-- 🎒 Cursando Técnico Desenvolvimento de Sistemas
+- 👨🏻‍🎓 Cursando Técnico Desenvolvimento de Sistemas
+- 👨‍💻 Em busca do primeiro emprego
 
 <img src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_960_720.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador">
 
