@@ -1,12 +1,14 @@
-## Seja Bem-vindo ao meu perfil do Github, aqui você poderá ver todo meus projetos e desenvolvimento nos estudos.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4500&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4500&size=35&center=true&vCenter=true&width=1000&lines=Olá+Sejam+Bem-vindos+ao+meu+perfil;Me+Chamo+Vinicius,+tenho+19+anos:%29)](https://git.io/typing-svg)
 
 - 👨🏻‍🎓 Cursando Técnico Desenvolvimento de Sistemas
 - 👨‍💻 Em busca do primeiro emprego
 
-<img src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_960_720.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius-Vieira-Andrade&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Vieira-Andrade&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Vieira-Andrade&show_icons=true&count_private=true&hide_border=true&title_color=ff4500&icon_color=ff4500&text_color=ffffff&bg_color=0d1117" alt="Vinicius Vieira de Andrade github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Vieira-Andrade&layout=compact&hide_border=true&title_color=ff4500&text_color=ff4500&bg_color=0d1117" />
+</div>
 
 <div style="display: inline_block"><br>
 
@@ -15,9 +17,16 @@
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
   ##
-
-  <a href="https://www.linkedin.com/in/vinicius-andrade-981a9626b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vinicius-Vieira-Andrade&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
   
+<div align="center">
+  <a href="https://www.linkedin.com/in/vinicius-andrade-981a9626b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div
+ 
 </div>
 
 ![Snake animation](https://github.com/Vinicius-Vieira-Andrade/Vinicius-Vieira-Andrade/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4500&height=120&section=footer"/>****
