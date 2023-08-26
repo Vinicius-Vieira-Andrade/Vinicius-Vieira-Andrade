@@ -33,6 +33,5 @@
  
 </div>
 
-![Snake animation](https://github.com/Vinicius-Vieira-Andrade/Vinicius-Vieira-Andrade/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4500&height=120&section=footer"/>
