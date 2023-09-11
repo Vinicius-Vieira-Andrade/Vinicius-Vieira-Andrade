@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4500&size=28&center=true&vCenter=true&width=1000&lines=Olá+Seja+Bem-Vindo(a)+ao+Meu+Perfil;Me+Chamo+Vinicius,+Tenho+19+Anos;E+Aqui+Você+Poderá+Acompanhar+Todo+Meu+Progresso+Nos+Estudos!:%29)](https://git.io/typing-svg)
 
-- 👨🏻‍🎓 Cursando Técnico Desenvolvimento de Sistemas E Redes de Computadores :technologist:
+- 👨🏻‍🎓 Cursando Técnico Desenvolvimento de Sistemas | Redes de Computadores :technologist:
 - 👨‍💻 Em busca do primeiro emprego
 
 ![luffy](https://github.com/Vinicius-Vieira-Andrade/Vinicius-Vieira-Andrade/assets/125310030/0869930b-5f84-43c0-9774-a840ac536ff8)
