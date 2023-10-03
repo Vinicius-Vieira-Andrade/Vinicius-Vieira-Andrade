@@ -1,0 +1,10 @@
+<svg width="500" height="100">
+  <text x="10" y="40" font-family="Arial" font-size="20" fill="#ff4500" visibility="hidden">
+    <animate attributeName="visibility" from="hidden" to="visible" begin="0s" dur="0.5s" fill="freeze" />
+    Olá, seja bem-vindo(a)
+    <animate attributeName="visibility" from="hidden" to="visible" begin="0.5s" dur="0.5s" fill="freeze" />
+    esse é o meu perfil do GitHub
+    <animate attributeName="visibility" from="hidden" to="visible" begin="1s" dur="0.5s" fill="freeze" />
+    e nele trago todo meu desenvolvimento no mundo da tecnologia!
+  </text>
+</svg>
