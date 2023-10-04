@@ -2,10 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4500&size=28&center=true&vCenter=true&width=1000&typing-duration=10&lines=Olá,+seja+bem-vindo(a);esse+é+o+meu+perfil+do+github;e+nele+trago+todo+meu+desenvolvimento+no+mundo+da+tecnologia!:%20)](https://git.io/typing-svg)
 
-
+<div align="center"> 
   <p>
-- 👨‍💻 Olá! um jovem de 19 anos interessado em tecnologia. Atualmente, estou dedicado a dois cursos técnicos: um em Redes de Computadores e outro em Desenvolvimento de Sistemas. Estou animado para colocar meus talentos à prova e em busca de oportunidades para aplicar meus conhecimentos e contribuir no mundo da tecnologia.
+👨‍💻 Olá pessoas! Me chamo Vinicius tenho 20 anos. Atualmente estou dedicado a dois cursos técnicos: um em Redes de Computadores e outro em Desenvolvimento de Sistemas no SENAI Informatica. Estou em busca de uma oportunidade para colocar meu conhecimento das duas áreas à prova, sempre buscando me aperfeiçoar cada vez mais e contribuir para o mundo da tecnologia! ;)
 </p>
+</div>
 
 
 ![luffy](https://github.com/Vinicius-Vieira-Andrade/Vinicius-Vieira-Andrade/assets/125310030/0869930b-5f84-43c0-9774-a840ac536ff8)
