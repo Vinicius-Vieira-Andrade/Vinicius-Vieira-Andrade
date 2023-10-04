@@ -24,7 +24,7 @@
  <img align="center" alt="Static Badge" height="25" src="https://img.shields.io/badge/CSHARP-100000?style=for-the-badge&logo=csharp&logoColor=purple">
  <img align="center" alt="Static Badge" height="25" src="https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=css3&logoColor=blue">
  <img align="center" alt="Static Badge" height="25" src="https://img.shields.io/badge/FIGMA-100000?style=for-the-badge&logo=figma&logoColor=transparent">
- <img align="center" alt="Static Badge" height="25" src="https://img.shields.io/badge/SQL-100000?style=for-the-badge&logo=microsoftsqlserver&logoColor=transparent">
+ <img align="center" alt="Static Badge" height="25" src="https://img.shields.io/badge/SQLSERVER-100000?style=for-the-badge&logo=microsoftsqlserver&logoColor=transparent">
  <img align="center" alt="Static Badge" height="25" src="https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=git&logoColor=transparent">
 <img align="center" alt="Static Badge" height="25" src="https://img.shields.io/badge/JAVASCRIPT-100000?style=for-the-badge&logo=javascript&logoColor=transparent">
 
