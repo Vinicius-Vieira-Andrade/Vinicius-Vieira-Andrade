@@ -34,6 +34,11 @@
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vinicius-Vieira-Andrade&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+
+<div>
+  <h2> Certificações 🏆</h2>
+  <img width="70" height="70"  src="https://images.credly.com/size/220x220/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"/>
+</div>
   
 <div>
   <h2> Contato </h2>
