@@ -37,7 +37,9 @@
 
 <div>
   <h2> Certificações 🏆</h2>
-  <img width="70" height="70"  src="https://images.credly.com/size/220x220/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"/>
+  <a href="https://www.credly.com/earner/earned/badge/57c5edce-2a28-4671-a501-6c22e82a4564"> <img width="70" height="70"  src="https://images.credly.com/size/220x220/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"/> 
+    <a/>
+
 </div>
   
 <div>
