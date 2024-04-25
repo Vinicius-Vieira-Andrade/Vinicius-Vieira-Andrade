@@ -39,6 +39,11 @@
   <h2> Certificações 🏆</h2>
   <a href="https://www.credly.com/earner/earned/badge/57c5edce-2a28-4671-a501-6c22e82a4564"> <img width="70" height="70"  src="https://images.credly.com/size/220x220/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"/> 
     <a/>
+<a href="https://www.credly.com/earner/earned/badge/a3b7cf99-be2d-4297-a163-676735a7db5e"> <img width="70" height="70"  src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png"/> 
+    <a/>
+  <a href="https://www.credly.com/earner/earned/badge/716174a3-a693-4635-a57b-08455fc9d0fd"> <img width="70" height="70"  src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"/> 
+    <a/>
+    
 
 </div>
   
