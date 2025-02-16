@@ -4,7 +4,7 @@
 
 <div align="center"> 
   <p>
-👨‍💻 Olá pessoas! Me chamo Vinicius, tenho 20 anos. Atualmente estou dedicado a dois cursos técnicos: um em Redes de Computadores e outro em Desenvolvimento de Sistemas na Escola Senai "Paulo Antonio Skaf". Estou em busca de uma oportunidade para colocar meu conhecimento das duas áreas à prova, sempre buscando me aperfeiçoar cada vez mais e contribuir para o mundo da tecnologia! ;)
+👨‍💻 Olá pessoas! Me chamo Vinicius, tenho 21 anos e sou formado em dois cursos técnicos sendo eles Desenvolvimento de Sistemas e Redes de Computadores. Fui também competidor na etapa SPSkills onde competi na modalidade de Segurança Cibernética, e atualmente continuo estudando e me aperfeiçoando na área. Estou em busca de uma oportunidade para colocar meus conhecimentos à prova, sempre buscando me aperfeiçoar cada vez mais e contribuir para o mundo da tecnologia! ;)
 </p>
 </div>
 
